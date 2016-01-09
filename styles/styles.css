@@ -1,0 +1,86 @@
+html {
+	background-color: #333333;
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	color: #33ccff;
+}
+
+
+
+.title {
+	width: 100%;
+	position: relative;
+	margin: auto;
+	display: block;
+	text-align: center;
+	font-size: 50px;
+	font-weight: 100;
+	top: -40px;
+	
+}
+
+#h:hover {
+	text-shadow: 0 0 8px #33ccff;
+}
+
+.meat {
+	
+	position: relative;
+	width: 100%;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 20px;
+	top: -20px;
+	
+}
+
+.n {
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	padding: 10px;
+	font-size: 40px;
+	margin: 50px 143px 50px 143px;
+}
+
+.n:hover {
+	text-shadow: 0 0 10px #33ccff;
+}
+
+.bread {
+	position: relative;
+	width: 100%;
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 20px;
+	top: -60px;
+	
+}
+
+input:focus {outline: none; }
+
+.bread .input{
+  width: 140px;
+  height: 30px;
+  position: relative;
+  display: inline-block;
+  background: #303030;
+  border: none;
+  font-size: 10pt;
+  text-align: center;
+  color: #33ccff;
+  margin: 0 95px 0 95px;
+  border-radius: 5px;
+}
+
+#result{
+	 margin-top:50px;
+	 font-size: 70px;
+  }
+
+.dessert {
+	text-align: center; 
+	font-family: 'Lato', sans-serif;
+}
